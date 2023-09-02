@@ -25,6 +25,6 @@ entries in the database.
 
 If none of the entries match the search criteria, the program prints "no matching people 
 found" and continues. Otherwise, the program tallies the number of entries fitting the 
-search criteria and display it as "(number) persons found:" prior to listing entries.
+search criteria and displays it as "(number) persons found:" prior to listing entries.
 
 2. September, 2023--description by E. Hsu (nahandove@gmail.com)
